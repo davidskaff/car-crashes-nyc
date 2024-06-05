@@ -7,6 +7,11 @@ For the data analysis aspect of this project, through Python, we gathered insigh
 - **Number of Fatalities per Year in NYC**
 - **Most Common Cause of Accidents in NYC**
 
+We found that 
+- 2013 had the highest number of accidents.
+- 2013 also had the highest number of fatalities by vehicle accidents. 
+- The most common cause of accidents over the years was 'Unspecified'.
+  
 This analysis helps in understanding the trends and factors contributing to road accidents in the city over time. If someone were to leverage these insights, they could use it to empower city officials and stakeholders to make informed decisions, implement targeted interventions, and ultimately improve road safety for residents and visitors alike.
 
 Data Source

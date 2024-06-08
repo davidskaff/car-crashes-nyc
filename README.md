@@ -30,7 +30,7 @@ We also worked on a python regular data analysis which gave us insights into roa
 We found that 2013 had the highest number of accidents, the highest number of fatalities by vehicle accidents, and the most common cause of accidents over the years was 'Unspecified'. This analysis helps in understanding the trends and factors contributing to road accidents in the city over time.
 
 ## Presentation 💡
-Finally, we created a presentation to talk about our work. Our project demonstrates a thorough application of machine learning, from data preprocessing and model training to optimization and prediction. The impressive accuracy score of 0.99 indicates that our model is highly effective at predicting the location and time of future vehicle accidents in NYC based on the provided features.
+Finally, we created a presentation to talk about our work.
 
 
 ![pic](https://images.unsplash.com/photo-1613042964418-89c800809319?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2FyJTIwY3Jhc2h8ZW58MHwwfDB8fHwy)

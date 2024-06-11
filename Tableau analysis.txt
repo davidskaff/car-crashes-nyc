@@ -1,0 +1,19 @@
+Analysis of the visualizations created by using tableau for vehicle crashes in NYC:
+
+The trends in fatalities and injury incidents over time exhibit fluctuations, notably spiking in 2016 for deaths and in 2023 for injury incidents.
+
+A line chart illustrates the trend of injury incidents and fatalities over time, with the year 2013 emerging as the peak in both categories. 
+Notably, 2023 records the lowest number of injury incidents, while 2016 stands out as the year with the fewest fatalities.
+
+A line chart is employed to illuminate the most prevalent hours of the day for crashes, revealing the frequency of collision occurrences 
+and providing insight into peak collision times.
+
+Bar chart is used to display the total vehicle crash records from 2012 to 2023 for each city, revealing Brooklyn as the city with the highest count. 
+Additionally, the stacked bar chart visually represents the number of persons injured and killed in vehicle crashes across each city.
+
+A heatmap is generated to depict collision density across three boroughs of NYC. Two cities are excluded due to unrecognizability by Tableau.
+
+A dashboard is created to assemble all visualizations for easy exploration and comparison.
+
+Finally, a release is published on GitHub with a tag, making it easy for you to connect to the Tableau interface — a convenient step forward in accessing 
+and utilizing powerful visualization tools.

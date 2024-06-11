@@ -38,6 +38,11 @@ The trends in fatalities and injury incidents over time exhibit fluctuations, no
 
 A line chart illustrates the trend of injury incidents and fatalities over time, with the year 2013 emerging as the peak in both categories. Notably, 2023 records the lowest number of injury incidents, while 2016 stands out as the year with the fewest fatalities.
 
-A bar chart vividly illustrates the frequency of collisions across five cities, revealing 2015 as the year with the highest occurrence of vehicle crashes among them.
+A line chart is employed to illuminate the most prevalent hours of the day for crashes, revealing the frequency of collision occurrences and providing insight into peak collision times.
 
+Bar chart is used to display the total vehicle crash records from 2012 to 2023 for each city, revealing Brooklyn as the city with the highest count. Additionally, the stacked bar chart visually represents the number of persons injured and killed in vehicle crashes across each city. 
+
+A heatmap is generated to depict collision density across three boroughs of NYC. Two cities are excluded due to unrecognizability by Tableau.
+
+A dashboard is created to assembl all visualizations for easy exploration and comparison.
 

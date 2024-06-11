@@ -39,3 +39,6 @@ Finally, we created a presentation to talk about our work.
 All our data analysis can be found in the folder named 'Data'. 
 Our powerpoint presentation is labelled "Collision Course NYC's Risky Roadways.pdf".
 Our Machine Learning analysis can be found in the folder named 'Machine Learning'.
+
+A release is published on GitHub with a tag, making it easy for you to connect to the Tableau interface — a convenient step forward in accessing 
+and utilizing powerful visualization tools.

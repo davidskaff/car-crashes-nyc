@@ -34,3 +34,8 @@ Finally, we created a presentation to talk about our work.
 
 
 ![pic](https://images.unsplash.com/photo-1613042964418-89c800809319?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2FyJTIwY3Jhc2h8ZW58MHwwfDB8fHwy)
+
+## Where to find our work
+All our data analysis can be found in the folder named 'Data'. 
+Our powerpoint presentation is labelled "Collision Course NYC's Risky Roadways.pdf".
+Our Machine Learning analysis can be found in the folder named 'Machine Learning'.
